@@ -1,6 +1,6 @@
 # CSS Assignment 2 (Assignment 4)
 
-This repo contains your assignment starter files, including three images.
+This repository contains your assignment starter files, including three images.
 
 1. **Fork** this repo (make sure you are logged into GitHub).
 
